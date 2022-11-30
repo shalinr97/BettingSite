@@ -14,7 +14,7 @@ Deployment to Heroku
 -	git config user.email "yourname@email.com" 
 -	git add .
 -	git commit  -m “my first version”
--	heroku create shalinawp3
+-	heroku create Application Name
 -	heroku create --stack heroku-18
 -	heroku stack:set heroku-18
 -	git push heroku master
